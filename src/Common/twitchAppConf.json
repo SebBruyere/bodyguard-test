@@ -1,0 +1,8 @@
+{
+    "twitchCredentials": {
+        "baseUrl": "https://id.twitch.tv/oauth2/authorize?",
+        "clientId": "ckrhd0i2v7v2hp1d8vktrqhomz23d3",
+        "redirectUri": "http://localhost:3000",
+        "responseType": "code"
+    }
+}

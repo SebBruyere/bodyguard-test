@@ -7,7 +7,7 @@ import { makeStyles } from '@material-ui/core/styles';
 export default props =>
     <AppBar position="static">
         <Toolbar>
-            <Typography variant="headline" color="inherit">
+            <Typography variant="h4" color="inherit">
                 Bodyguard
             </Typography>
         </Toolbar>
