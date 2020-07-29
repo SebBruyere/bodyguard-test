@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bodyguard-test/precache-manifest.b703418f24716c5f91e645a70d1208a2.js"
+  "/bodyguard-test/precache-manifest.6f66d27774f825f55d27a537e4bfa4be.js"
 );
 
 self.addEventListener('message', (event) => {
