@@ -25,7 +25,8 @@ export default class Callback extends React.Component {
         .then(function (response) {
             console.log(response);
             if (response.data.access_token) {
-                window.location = "/token=" + response.data.access_token;
+                window.localStorage.setItem("token", response.data.access_token);
+                window.location = "/";
             } else if (response.data.redirect == '/login'){
                 window.location = "/login"
             }
