@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "68e3e72d1ef6a2e3971fe4461bb5db0a",
+    "revision": "2d02c282fcc8370bbe9701e82282fb61",
     "url": "/bodyguard-test/index.html"
   },
   {
-    "revision": "fc22398830ba4232f442",
-    "url": "/bodyguard-test/static/css/main.5f361e03.chunk.css"
+    "revision": "3560811543d523005ac3",
+    "url": "/bodyguard-test/static/css/main.523f09c5.chunk.css"
   },
   {
     "revision": "fbb8362fddc018cad02e",
@@ -16,15 +16,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bodyguard-test/static/js/2.a4a4388e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fc22398830ba4232f442",
-    "url": "/bodyguard-test/static/js/main.2f5ff87f.chunk.js"
+    "revision": "3560811543d523005ac3",
+    "url": "/bodyguard-test/static/js/main.195a945e.chunk.js"
   },
   {
     "revision": "b2fed30d33b34819d973",
     "url": "/bodyguard-test/static/js/runtime-main.6fa1cbdf.js"
   },
   {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/bodyguard-test/static/media/logo.5d5d9eef.svg"
+    "revision": "ee7cd8ed2dcec943251eb2763684fc6f",
+    "url": "/bodyguard-test/static/media/logo.ee7cd8ed.svg"
   }
 ]);
