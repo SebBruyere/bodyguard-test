@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "19d51e36ea646af2dffffdba1a5858a2",
+    "revision": "fb5d385a930d0682b3935c7ddcdc6d34",
     "url": "/bodyguard-test/index.html"
   },
   {
-    "revision": "97a6b5d5648635ae20c1",
+    "revision": "d3e6c84ef64a9ddde8b1",
     "url": "/bodyguard-test/static/css/main.2e46e4bd.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bodyguard-test/static/js/2.0abdc548.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "97a6b5d5648635ae20c1",
-    "url": "/bodyguard-test/static/js/main.26da2ee5.chunk.js"
+    "revision": "d3e6c84ef64a9ddde8b1",
+    "url": "/bodyguard-test/static/js/main.b2fe2be8.chunk.js"
   },
   {
     "revision": "b2fed30d33b34819d973",
