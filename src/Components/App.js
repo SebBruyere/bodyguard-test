@@ -1,4 +1,6 @@
 import React, {Component, Fragment} from 'react';
+import {Callback} from './Callback';
+import { BrowserRouter, Route, Link } from "react-router-dom";
 import logo from './logo.svg';
 import './App.css';
 import {Header} from './Layouts';
@@ -30,6 +32,9 @@ export default class extends Component {
     render() {
         return (
             <Fragment>
+                <BrowserRouter>
+                    <Route path="/callback" component={Callback}/>
+                </BrowserRouter>
                 <Header />
                 <Container maxWidth="sm">
                     <Grid
